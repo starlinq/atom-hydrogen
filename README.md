@@ -23,4 +23,8 @@ Before using we have to activate the created environment:
 ```
 conda activate mypyenv
 ```
+The next step is very important in adding support of Jupyter kernel to the environment
+```
+python -m ipykernel install --user --name mypyenv
+```
 
