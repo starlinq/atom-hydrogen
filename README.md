@@ -16,5 +16,7 @@ In first we have to create a new environment
 ```
 conda create --name mypyenv python=3.8
 ```
+In last command we specified a Python version otherwise the latest OS-supported version will be installed.
+
 
 
