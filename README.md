@@ -41,7 +41,7 @@ If everything is okay, the following message will be generated varying on your p
 Installed kernelspec mypyenv in C:\Users\yourusername\AppData\Roaming\jupyter\kernels\mypyenv
 ```
 
-To start programming, now we can run Atom editor and add the following code for simple example:
+To start programming, now we can run Atom editor and add the following code for simple example (e.g., hello-atom-hy.py):
 
 ```python
 # %%
@@ -54,4 +54,4 @@ print('Hello, world!')
 for i in range(0, 3):
     print("i = ", i)
 ```
-
+As you can see, here we have 3 cells: code, markdown and code again.
