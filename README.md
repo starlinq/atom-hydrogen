@@ -11,6 +11,8 @@ There are some advantages of this approach:
 
 ## Using Anaconda/Miniconda environments
 
+Under Windows OS, after installation of Anaconda3 (with Python version 3.X support), ones open Anaconda3 Prompt window, then we can specify any command.
+
 In first we have to create a new environment
 
 ```
