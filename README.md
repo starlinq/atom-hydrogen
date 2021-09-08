@@ -27,4 +27,8 @@ The next step is very important in adding support of Jupyter kernel to the envir
 ```
 python -m ipykernel install --user --name mypyenv
 ```
+If everything is okay, the following message will be generated varying on your platform, e.g. for Windows OS
 
+```
+Installed kernelspec mypyenv in C:\Users\yourusername\AppData\Roaming\jupyter\kernels\mypyenv
+```
