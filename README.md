@@ -1,5 +1,5 @@
 # Python based development with Atom-Hydrogen
-Tutorial on using Atom editor with hydrogen package for Python based development as jupyter notebook
+Tutorial on using Atom editor with hydrogen package for interactive programming in Python's jupyter based environment
 
 This is a great alternative for interactive programming to common Visual Studio Code with well-known Python and Jupyter extensions.
 
