@@ -9,6 +9,11 @@ There are some advantages of this approach:
 - Supports both python and conda environments
 - Requires less resources (so accordingly consumes less computer memory)
 
+## Installation requirements
+
+- Atom editor with Hydrogen package
+- Python installation (e.g. in form of Anaconda distribution)
+
 ## Using Anaconda/Miniconda environments
 
 Under Windows OS, after installation of Anaconda3 (with Python version 3.X support), ones open Anaconda3 Prompt window, then we can specify any command.
