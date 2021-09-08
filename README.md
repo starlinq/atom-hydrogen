@@ -55,3 +55,7 @@ for i in range(0, 3):
     print("i = ", i)
 ```
 As you can see, here we have 3 cells: code, markdown and code again.
+
+To run the whole file or only current or selected cell, it is better to become familiar with Atom's Hydrogen menu and commands.
+
+So we can go to Atom's top menu > Packages > Hydrogen.
