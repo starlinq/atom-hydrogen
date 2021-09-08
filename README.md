@@ -41,5 +41,5 @@ If everything is okay, the following message will be generated varying on your p
 Installed kernelspec mypyenv in C:\Users\yourusername\AppData\Roaming\jupyter\kernels\mypyenv
 ```
 
-To start programming, wow we can run Atom editor.
+To start programming, now we can run Atom editor.
 
