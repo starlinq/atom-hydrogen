@@ -15,8 +15,9 @@ In first we have to create a new environment
 
 ```
 conda create --name mypyenv python=3.8
+conda install -n mypyenv jupyter
 ```
-In last command we specified a Python version otherwise the latest OS-supported version will be installed.
+In the first command line we specified a Python version otherwise the latest OS-supported version will be installed.
 
 Before using we have to activate the created environment:
 
