@@ -40,6 +40,10 @@ If everything is okay, the following message will be generated varying on your p
 ```
 Installed kernelspec mypyenv in C:\Users\yourusername\AppData\Roaming\jupyter\kernels\mypyenv
 ```
+and for Ubuntu
+```
+Installed kernelspec uparkinsonmri38 in /home/yourusername/.local/share/jupyter/kernels/uparkinsonmri38
+```
 
 To start programming, now we can run Atom editor and add the following code for simple example (e.g., hello-atom-hy.py):
 
