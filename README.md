@@ -42,7 +42,7 @@ Installed kernelspec mypyenv in C:\Users\yourusername\AppData\Roaming\jupyter\ke
 ```
 and for Ubuntu
 ```
-Installed kernelspec mypyenv in /home/yourusername/.local/share/jupyter/kernels/uparkinsonmri38
+Installed kernelspec mypyenv in /home/yourusername/.local/share/jupyter/kernels/mypyenv
 ```
 
 To start programming, now we can run Atom editor and add the following code for simple example (e.g., hello-atom-hy.py):
